@@ -14,5 +14,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: build
-      run: make -C 03_Implementation/Billing system.C
+      run: make -C 03_Implementation/Billing 
     
